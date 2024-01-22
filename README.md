@@ -45,7 +45,6 @@ This Git repository hosts Python versions of the class exercises and homework as
 ## Instructions on running the Jupyter notebooks in Google Colab
 
 * Go to https://colab.research.google.com/ (Gmail sign-in required)
-
 * You should see a screen like this, if not, go to File -> Open notebook
 <img width="864" alt="image" src="https://github.com/chayanroyc/ATMO545_2024Sp/assets/49596459/10dc7530-b945-4a87-9e2d-834a74c15f48">
 
@@ -53,8 +52,10 @@ This Git repository hosts Python versions of the class exercises and homework as
 <img width="682" alt="image" src="https://github.com/chayanroyc/ATMO545_2024Sp/assets/49596459/8ad8e2ab-6e2d-4156-ad66-0f94cd8f9333">
 
 * Click on the search button to find the notebooks from the repository.
-
 * Click on the notebook you need to interact with.
+* Once the notebook opens, wait for a few seconds for the kernel to connect. Then go to **Runtime** in the menu bar and click *Run all*
+* At the end of the notebook, the interactive widget should appear.
+
 
 
  
