@@ -40,4 +40,21 @@ world applications (your own research).
 
 ## GitHub
 
-This Git repository hosts Python versions of the class exercises and homeworks as the original solutions are in Matlab.
+This Git repository hosts Python versions of the class exercises and homework as the original solutions are in Matlab.
+
+## Instructions on running the Jupyter notebooks in Google Colab
+
+* Go to https://colab.research.google.com/ (Gmail sign-in required)
+
+* You should see a screen like this, if not, go to File -> Open notebook
+<img width="864" alt="image" src="https://github.com/chayanroyc/ATMO545_2024Sp/assets/49596459/10dc7530-b945-4a87-9e2d-834a74c15f48">
+
+* In the **Open notebook** window, click on *Github* and paste this link in the search bar: https://github.com/chayanroyc/ATMO545_2024S
+<img width="682" alt="image" src="https://github.com/chayanroyc/ATMO545_2024Sp/assets/49596459/8ad8e2ab-6e2d-4156-ad66-0f94cd8f9333">
+
+* Click on the search button to find the notebooks from the repository.
+
+* Click on the notebook you need to interact with.
+
+
+ 
